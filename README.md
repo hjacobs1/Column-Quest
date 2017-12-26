@@ -6,3 +6,5 @@ Thank you to the makers of the Swift libraries EasyImagy and MathSwift!
 This project was created during the 5C Hackathon hosted by Pomona College, in which it placed second in the beginner category.
 
 This was our first time coding in Swift! We learned a lot during development and had a ton of fun.
+
+Note: The internal library is found in the assests file.
